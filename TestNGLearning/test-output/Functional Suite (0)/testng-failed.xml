@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Functional Suite (0)]">
+  <test thread-count="5" name="Validate Titles(failed)">
+    <classes>
+      <class name="testcases.TestCase2">
+        <methods>
+          <include name="validateTitles"/>
+        </methods>
+      </class> <!-- testcases.TestCase2 -->
+    </classes>
+  </test> <!-- Validate Titles(failed) -->
+</suite> <!-- Failed suite [Functional Suite (0)] -->

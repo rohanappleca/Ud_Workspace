@@ -1,0 +1,3 @@
+25/05/2020 12:54:22 INFO  TestLog4J - Hello info
+25/05/2020 12:54:22 DEBUG TestLog4J - Hello Debug 
+25/05/2020 12:54:22 ERROR TestLog4J - Hello Error
